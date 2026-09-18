@@ -1,16 +1,14 @@
 import type { Metadata } from "next";
-import { CheckoutForm } from "@/components/checkout-form";
+import { Suspense } from "react";
+import { CheckoutFromQuery } from "@/components/checkout-from-query";
 import { PageHero } from "@/components/page-hero";
-import { getContent } from "@/lib/content";
 import { getDict } from "@/lib/dict";
 import { pageAlternates } from "@/lib/metadata";
 import { locales, toLocale } from "@/lib/i18n";
-import { selectionFromParams } from "@/lib/pricing";
 import { heroImages } from "@/lib/site-config";
 
 type Props = {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<Record<string, string | string[] | undefined>>;
 };
 
 export function generateStaticParams() {
@@ -33,12 +31,10 @@ export async function generateMetadata({
   };
 }
 
-export default async function CheckoutPage({ params, searchParams }: Props) {
+export default async function CheckoutPage({ params }: Props) {
   const { locale: raw } = await params;
-  const query = await searchParams;
   const locale = toLocale(raw);
   const dict = getDict(locale);
-  const selection = selectionFromParams(getContent(locale), query);
 
   return (
     <>
@@ -48,7 +44,9 @@ export default async function CheckoutPage({ params, searchParams }: Props) {
         description={dict.checkout.description}
         image={heroImages.checkout}
       />
-      <CheckoutForm locale={locale} selection={selection} />
+      <Suspense fallback={null}>
+        <CheckoutFromQuery locale={locale} />
+      </Suspense>
     </>
   );
 }

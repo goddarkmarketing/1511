@@ -1,4 +1,7 @@
-export const siteUrl = "https://www.trangvoyage.com";
+export const siteUrl =
+  process.env.GITHUB_PAGES === "true"
+    ? "https://goddarkmarketing.github.io/1511"
+    : "https://www.trangvoyage.com";
 
 export const contact = {
   line: "https://line.me/R/ti/p/@trangvoyage",

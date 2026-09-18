@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { PageHero } from "@/components/page-hero";
-import { PlanSection } from "@/components/plan-section";
+import { PlanFromQuery } from "@/components/plan-from-query";
 import { getDict } from "@/lib/dict";
 import { pageAlternates } from "@/lib/metadata";
 import { locales, toLocale } from "@/lib/i18n";
-import type { BoatId } from "@/lib/pricing";
 import { heroImages } from "@/lib/site-config";
 
 type Props = {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<{ experience?: string; boat?: string }>;
 };
 
 export function generateStaticParams() {
@@ -31,9 +30,8 @@ export async function generateMetadata({
   };
 }
 
-export default async function PlanPage({ params, searchParams }: Props) {
+export default async function PlanPage({ params }: Props) {
   const { locale: raw } = await params;
-  const { experience, boat } = await searchParams;
   const locale = toLocale(raw);
   const dict = getDict(locale);
 
@@ -45,12 +43,9 @@ export default async function PlanPage({ params, searchParams }: Props) {
         description={dict.pages.plan.description}
         image={heroImages.plan}
       />
-      <PlanSection
-        locale={locale}
-        standalone
-        initialExperience={experience}
-        initialBoat={boat === "longtail" ? ("longtail" as BoatId) : undefined}
-      />
+      <Suspense fallback={null}>
+        <PlanFromQuery locale={locale} standalone />
+      </Suspense>
     </>
   );
 }
