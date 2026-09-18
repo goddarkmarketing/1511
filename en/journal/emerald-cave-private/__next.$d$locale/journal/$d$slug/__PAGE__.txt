@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:I[85437,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],"Image"]
+3:I[18034,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],"HoverButton"]
+4:I[22016,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],""]
+5:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+b:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+9:X
+17:X
+17:C
+0:{"buildId":"VSlJZS1XRiuXamoDk3Lib","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative min-h-[56vh] overflow-hidden","children":[["$","$L2",null,{"src":"/1511/images/destinations/emerald.jpg","alt":"","fill":true,"priority":true,"className":"object-cover","sizes":"100vw"}],["$","div",null,{"className":"absolute inset-0 bg-[linear-gradient(180deg,rgba(22,18,14,0.55)_0%,rgba(22,18,14,0.35)_45%,rgba(22,18,14,0.72)_100%)]"}],["$","div",null,{"className":"relative z-10 mx-auto flex min-h-[inherit] max-w-[1400px] items-center px-5 pb-10 pt-[7rem] md:px-8","children":["$","div",null,{"className":"max-w-3xl text-[var(--ivory)]","children":[["$","p",null,{"className":"text-[0.68rem] font-medium uppercase tracking-[0.28em] text-[var(--sand)]","children":"Guides / 10 Feb 2026"}],["$","h1",null,{"className":"mt-3 font-[family-name:var(--font-display)] text-[clamp(2.4rem,6vw,4.4rem)] leading-[1.02] tracking-[-0.02em]","children":"Emerald Cave: what a private visit feels like"}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-[var(--ivory)]/85 md:text-base","children":"Tide, timing, and a crew that knows when to wait."}]]}]}]]}],["$","section",null,{"className":"bg-[var(--ivory)] py-16 md:py-24","children":["$","div",null,{"className":"mx-auto max-w-3xl px-5 md:px-8","children":[["$","div",null,{"className":"space-y-6 text-base leading-relaxed text-[var(--charcoal-soft)]","children":[["$","p","Emerald Cave is not a checkbox stop. Tide matters. Swell matters. Crowd pressure matters.",{"children":"Emerald Cave is not a checkbox stop. Tide matters. Swell matters. Crowd pressure matters."}],["$","p","A private boat lets your crew wait for a cleaner window and keep the experience calm instead of rushed.",{"children":"A private boat lets your crew wait for a cleaner window and keep the experience calm instead of rushed."}],["$","p","On our Trang Sea and Emerald Cave program we usually reach the cave in the early afternoon, after beach time and lunch, when the light inside is at its best.",{"children":"On our Trang Sea and Emerald Cave program we usually reach the cave in the early afternoon, after beach time and lunch, when the light inside is at its best."}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap gap-4","children":[["$","$L3",null,{"href":"/en/plan","children":"Plan Your Day"}],["$","$L4",null,{"href":"/en/journal","className":"self-center text-sm text-[var(--mocha)]","children":"Back to journal"}]]}]]}]}]],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Emerald Cave: what a private visit feels like | Trang Voyage"}],["$","meta","1",{"name":"description","content":"Tide, timing, and a crew that knows when to wait."}],["$","link","2",{"rel":"canonical","href":"https://goddarkmarketing.github.io/1511/en/journal/emerald-cave-private/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://goddarkmarketing.github.io/1511/en/journal/emerald-cave-private/"}],["$","link","4",{"rel":"alternate","hrefLang":"th","href":"https://goddarkmarketing.github.io/1511/th/journal/emerald-cave-private/"}],["$","meta","5",{"property":"og:title","content":"Trang Voyage | Private Sea Experiences"}],["$","meta","6",{"property":"og:description","content":"Private boat journeys across Trang islands. Discover Trang differently with premium speedboat and longtail experiences."}],["$","meta","7",{"property":"og:site_name","content":"Trang Voyage"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://goddarkmarketing.github.io/1511/images/hero/aerial.jpg"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"]}]}]}],"$L13"]}],"isPartial":"$@14","staleTime":"$9","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$9","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$9","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[27201,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1d:I[39756,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+1e:I[37457,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+7:null
+c:["$","meta","10",{"property":"og:type","content":"website"}]
+d:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
+e:["$","meta","12",{"name":"twitter:title","content":"Trang Voyage | Private Sea Experiences"}]
+f:["$","meta","13",{"name":"twitter:description","content":"Private boat journeys across Trang islands. Discover Trang differently with premium speedboat and longtail experiences."}]
+10:["$","meta","14",{"name":"twitter:image","content":"https://goddarkmarketing.github.io/1511/images/hero/aerial.jpg"}]
+11:["$","link","15",{"rel":"icon","href":"/1511/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+12:["$","$L1c","16",{}]
+13:["$","meta",null,{"name":"next-size-adjust","content":""}]
+15:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+1b:true
+9:300
+9:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+8:"$undefined"

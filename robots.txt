@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /en/checkout/
+Disallow: /th/checkout/
+Disallow: /en/checkout
+Disallow: /th/checkout
+
+Sitemap: https://goddarkmarketing.github.io/1511/sitemap.xml

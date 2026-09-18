@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[85437,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],"Image"]
+3:I[18034,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],"HoverButton"]
+4:I[22016,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],""]
+5:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+b:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+9:X
+16:X
+16:C
+0:{"buildId":"VSlJZS1XRiuXamoDk3Lib","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative min-h-[56vh] overflow-hidden","children":[["$","$L2",null,{"src":"/1511/images/boats/longtail-2.jpg","alt":"","fill":true,"priority":true,"className":"object-cover","sizes":"100vw"}],["$","div",null,{"className":"absolute inset-0 bg-[linear-gradient(180deg,rgba(22,18,14,0.55)_0%,rgba(22,18,14,0.35)_45%,rgba(22,18,14,0.72)_100%)]"}],["$","div",null,{"className":"relative z-10 mx-auto flex min-h-[inherit] max-w-[1400px] items-center px-5 pb-10 pt-[7rem] md:px-8","children":["$","div",null,{"className":"max-w-3xl text-[var(--ivory)]","children":[["$","p",null,{"className":"text-[0.68rem] font-medium uppercase tracking-[0.28em] text-[var(--sand)]","children":"การวางแผน / 28 ก.พ. 2569"}],["$","h1",null,{"className":"mt-3 font-[family-name:var(--font-display)] text-[clamp(2.4rem,6vw,4.4rem)] leading-[1.02] tracking-[-0.02em]","children":"สปีดโบทหรือเรือหางยาว เลือกจังหวะทะเลตรังของคุณ"}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-[var(--ivory)]/85 md:text-base","children":"ระยะทางกับบรรยากาศ ทั้งสองแบบเป็นส่วนตัวและตั้งใจเลือกมาแล้ว"}]]}]}]]}],["$","section",null,{"className":"bg-[var(--ivory)] py-16 md:py-24","children":["$","div",null,{"className":"mx-auto max-w-3xl px-5 md:px-8","children":[["$","div",null,{"className":"space-y-6 text-base leading-relaxed text-[var(--charcoal-soft)]","children":[["$","p","เลือกสปีดโบทเมื่ออยากได้เกาะมากขึ้น เวลาดำน้ำมากขึ้น และรัศมีที่ไกลขึ้น อย่างเกาะรอกที่ห่างจากท่าเรือหาดยาวราว 50 นาที ซึ่งต้องใช้ความเร็วจริงๆ",{"children":"เลือกสปีดโบทเมื่ออยากได้เกาะมากขึ้น เวลาดำน้ำมากขึ้น และรัศมีที่ไกลขึ้น อย่างเกาะรอกที่ห่างจากท่าเรือหาดยาวราว 50 นาที ซึ่งต้องใช้ความเร็วจริงๆ"}],["$","p","เลือกเรือหางยาวเมื่อการเดินทางเองคือหัวใจ ช้าลง ใกล้ชิดท้องถิ่น และถ่ายรูปสวยมาก โดยเฉพาะช่วงแสงสุดท้ายของวัน",{"children":"เลือกเรือหางยาวเมื่อการเดินทางเองคือหัวใจ ช้าลง ใกล้ชิดท้องถิ่น และถ่ายรูปสวยมาก โดยเฉพาะช่วงแสงสุดท้ายของวัน"}],["$","p","ทั้งสองแบบเป็นการเหมาลำส่วนตัว ต่างกันที่จังหวะ ไม่ใช่ระดับการบริการ",{"children":"ทั้งสองแบบเป็นการเหมาลำส่วนตัว ต่างกันที่จังหวะ ไม่ใช่ระดับการบริการ"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap gap-4","children":[["$","$L3",null,{"href":"/th/plan","children":"ออกแบบทริปของคุณ"}],["$","$L4",null,{"href":"/th/journal","className":"self-center text-sm text-[var(--mocha)]","children":"กลับไปหน้าเรื่องเล่า"}]]}]]}]}]],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"สปีดโบทหรือเรือหางยาว เลือกจังหวะทะเลตรังของคุณ | Trang Voyage"}],["$","meta","1",{"name":"description","content":"ระยะทางกับบรรยากาศ ทั้งสองแบบเป็นส่วนตัวและตั้งใจเลือกมาแล้ว"}],["$","link","2",{"rel":"canonical","href":"https://goddarkmarketing.github.io/1511/th/journal/speedboat-or-longtail/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://goddarkmarketing.github.io/1511/en/journal/speedboat-or-longtail/"}],["$","link","4",{"rel":"alternate","hrefLang":"th","href":"https://goddarkmarketing.github.io/1511/th/journal/speedboat-or-longtail/"}],["$","meta","5",{"property":"og:title","content":"Trang Voyage | ทริปเรือเหมาส่วนตัว จังหวัดตรัง"}],["$","meta","6",{"property":"og:description","content":"ทริปเรือเหมาส่วนตัวเที่ยวเกาะในทะเลตรัง สปีดโบทพรีเมียมและเรือหางยาว ออกแบบวันเดียวให้เป็นของคุณคนเดียว"}],["$","meta","7",{"property":"og:site_name","content":"Trang Voyage"}],["$","meta","8",{"property":"og:locale","content":"th_TH"}],["$","meta","9",{"property":"og:image","content":"https://goddarkmarketing.github.io/1511/images/hero/aerial.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"isPartial":"$@13","staleTime":"$9","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$9","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$9","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[27201,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1c:I[39756,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+1d:I[37457,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+7:null
+c:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
+d:["$","meta","12",{"name":"twitter:title","content":"Trang Voyage | ทริปเรือเหมาส่วนตัว จังหวัดตรัง"}]
+e:["$","meta","13",{"name":"twitter:description","content":"ทริปเรือเหมาส่วนตัวเที่ยวเกาะในทะเลตรัง สปีดโบทพรีเมียมและเรือหางยาว ออกแบบวันเดียวให้เป็นของคุณคนเดียว"}]
+f:["$","meta","14",{"name":"twitter:image","content":"https://goddarkmarketing.github.io/1511/images/hero/aerial.jpg"}]
+10:["$","link","15",{"rel":"icon","href":"/1511/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+11:["$","$L1b","16",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]
+14:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+1a:true
+9:300
+9:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+8:"$undefined"

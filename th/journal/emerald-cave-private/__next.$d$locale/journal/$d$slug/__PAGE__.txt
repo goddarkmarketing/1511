@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[85437,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],"Image"]
+3:I[18034,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],"HoverButton"]
+4:I[22016,["/1511/_next/static/chunks/3aa-hbw3jtzic.js","/1511/_next/static/chunks/3xeiw7olvui90.js","/1511/_next/static/chunks/1qoxlw5a9j1_1.js"],""]
+5:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+b:I[97367,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+9:X
+14:X
+14:C
+0:{"buildId":"VSlJZS1XRiuXamoDk3Lib","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative min-h-[56vh] overflow-hidden","children":[["$","$L2",null,{"src":"/1511/images/destinations/emerald.jpg","alt":"","fill":true,"priority":true,"className":"object-cover","sizes":"100vw"}],["$","div",null,{"className":"absolute inset-0 bg-[linear-gradient(180deg,rgba(22,18,14,0.55)_0%,rgba(22,18,14,0.35)_45%,rgba(22,18,14,0.72)_100%)]"}],["$","div",null,{"className":"relative z-10 mx-auto flex min-h-[inherit] max-w-[1400px] items-center px-5 pb-10 pt-[7rem] md:px-8","children":["$","div",null,{"className":"max-w-3xl text-[var(--ivory)]","children":[["$","p",null,{"className":"text-[0.68rem] font-medium uppercase tracking-[0.28em] text-[var(--sand)]","children":"ไกด์ / 10 ก.พ. 2569"}],["$","h1",null,{"className":"mt-3 font-[family-name:var(--font-display)] text-[clamp(2.4rem,6vw,4.4rem)] leading-[1.02] tracking-[-0.02em]","children":"ถ้ำมรกต: การไปแบบส่วนตัวให้ความรู้สึกอย่างไร"}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-[var(--ivory)]/85 md:text-base","children":"ระดับน้ำ จังหวะเวลา และทีมงานที่รู้ว่าควรรอเมื่อไหร่"}]]}]}]]}],["$","section",null,{"className":"bg-[var(--ivory)] py-16 md:py-24","children":["$","div",null,{"className":"mx-auto max-w-3xl px-5 md:px-8","children":[["$","div",null,{"className":"space-y-6 text-base leading-relaxed text-[var(--charcoal-soft)]","children":[["$","p","ถ้ำมรกตไม่ใช่จุดที่แวะเพียงเพื่อเช็คลิสต์ ระดับน้ำสำคัญ คลื่นลมสำคัญ และจำนวนคนก็สำคัญ",{"children":"ถ้ำมรกตไม่ใช่จุดที่แวะเพียงเพื่อเช็คลิสต์ ระดับน้ำสำคัญ คลื่นลมสำคัญ และจำนวนคนก็สำคัญ"}],["$","p","เรือส่วนตัวทำให้ทีมงานรอจังหวะที่ดีกว่าได้ และทำให้ประสบการณ์สงบแทนที่จะเร่งรีบ",{"children":"เรือส่วนตัวทำให้ทีมงานรอจังหวะที่ดีกว่าได้ และทำให้ประสบการณ์สงบแทนที่จะเร่งรีบ"}],["$","p","ในโปรแกรมทะเลตรังและถ้ำมรกต เรามักถึงถ้ำในช่วงต้นบ่าย หลังพักผ่อนบนหาดและมื้อกลางวัน ซึ่งเป็นช่วงที่แสงในถ้ำสวยที่สุด",{"children":"ในโปรแกรมทะเลตรังและถ้ำมรกต เรามักถึงถ้ำในช่วงต้นบ่าย หลังพักผ่อนบนหาดและมื้อกลางวัน ซึ่งเป็นช่วงที่แสงในถ้ำสวยที่สุด"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap gap-4","children":[["$","$L3",null,{"href":"/th/plan","children":"ออกแบบทริปของคุณ"}],["$","$L4",null,{"href":"/th/journal","className":"self-center text-sm text-[var(--mocha)]","children":"กลับไปหน้าเรื่องเล่า"}]]}]]}]}]],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ถ้ำมรกต: การไปแบบส่วนตัวให้ความรู้สึกอย่างไร | Trang Voyage"}],["$","meta","1",{"name":"description","content":"ระดับน้ำ จังหวะเวลา และทีมงานที่รู้ว่าควรรอเมื่อไหร่"}],["$","link","2",{"rel":"canonical","href":"https://goddarkmarketing.github.io/1511/th/journal/emerald-cave-private/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://goddarkmarketing.github.io/1511/en/journal/emerald-cave-private/"}],["$","link","4",{"rel":"alternate","hrefLang":"th","href":"https://goddarkmarketing.github.io/1511/th/journal/emerald-cave-private/"}],["$","meta","5",{"property":"og:title","content":"Trang Voyage | ทริปเรือเหมาส่วนตัว จังหวัดตรัง"}],["$","meta","6",{"property":"og:description","content":"ทริปเรือเหมาส่วนตัวเที่ยวเกาะในทะเลตรัง สปีดโบทพรีเมียมและเรือหางยาว ออกแบบวันเดียวให้เป็นของคุณคนเดียว"}],["$","meta","7",{"property":"og:site_name","content":"Trang Voyage"}],["$","meta","8",{"property":"og:locale","content":"th_TH"}],["$","meta","9",{"property":"og:image","content":"https://goddarkmarketing.github.io/1511/images/hero/aerial.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Trang Voyage | ทริปเรือเหมาส่วนตัว จังหวัดตรัง"}],"$Lc","$Ld","$Le","$Lf"]}]}]}],"$L10"]}],"isPartial":"$@11","staleTime":"$9","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$9","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$9","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[27201,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1a:I[39756,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+1b:I[37457,["/1511/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+7:null
+c:["$","meta","13",{"name":"twitter:description","content":"ทริปเรือเหมาส่วนตัวเที่ยวเกาะในทะเลตรัง สปีดโบทพรีเมียมและเรือหางยาว ออกแบบวันเดียวให้เป็นของคุณคนเดียว"}]
+d:["$","meta","14",{"name":"twitter:image","content":"https://goddarkmarketing.github.io/1511/images/hero/aerial.jpg"}]
+e:["$","link","15",{"rel":"icon","href":"/1511/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+f:["$","$L19","16",{}]
+10:["$","meta",null,{"name":"next-size-adjust","content":""}]
+12:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+18:true
+9:300
+9:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+8:"$undefined"
