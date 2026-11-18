@@ -5,7 +5,7 @@ node_modules/
 
 # next.js build output
 .next/
-out/
+# website/out is tracked for Plesk/static hosting deploy
 build/
 *.tsbuildinfo
 next-env.d.ts
